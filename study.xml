@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mainfest>
 
-	<remote name="Study"
-			fetch="https://github.com/" />
-		
-	<default revision="dev"
-			 sync -j="4"
-			 remote="Study" />
-
-	<project path="Study"  
-			 name="JackCc0729/study"/>
+	<project path="Study"  	 name="JackCc0729/study" revision="dev" remote="Study"/>
 <mainfest>			 
