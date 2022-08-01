@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mainfest>
+	<remote name="github"  fetch="https://github.com/" />
+
 	<project path="Temp520"  name="JackCc0729/Temp520" revision="dev1" remote="Temp520" />
 	<include name="include/study.xml" />
 <mainfest>			 
