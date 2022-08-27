@@ -4,7 +4,6 @@
         <remote name="gitee"   fetch="https://gitee.com/"/>
 
 	<default revision="master" remote="github" />
-	<project path="Temp520"  name="JackCc0729/Temp520" revision="dev1" remote="github" />
-	<project path="Ee_jack" name="eejackcc0729/ee-jack-cc0729" revision="dev" remote="gitee" />
+	<project path="Temp520"  name="JackCc0729/Temp520" revision="v1.0" remote="github" />
 	<include name="include/study.xml" />
 </manifest>			 
